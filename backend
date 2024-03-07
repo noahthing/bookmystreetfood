@@ -13,3 +13,6 @@ project/
     ├── index.html
     ├── style.css
     └── script.js
+# Inside project directory
+npm init -y
+npm install express mongoose body-parser
