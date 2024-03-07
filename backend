@@ -1,0 +1,15 @@
+project/
+│
+├── backend/
+│   ├── controllers/
+│   │   └── gigController.js
+│   ├── models/
+│   │   └── gigModel.js
+│   ├── routes/
+│   │   └── gigRoutes.js
+│   └── app.js
+│
+└── frontend/
+    ├── index.html
+    ├── style.css
+    └── script.js
